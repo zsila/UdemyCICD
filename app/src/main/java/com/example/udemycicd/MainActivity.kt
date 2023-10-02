@@ -23,7 +23,7 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colorScheme.background
                 ) {
                     Greeting("Hello CI/CD World!")
-                    Greeting("Feature-1")
+                    Greeting("Feature-1 New")
                 }
 
             }
