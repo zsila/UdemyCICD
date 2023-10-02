@@ -22,8 +22,10 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    Greeting("")
-                    Greeting("Feature-1")
+
+                    Greeting("Hello CI/CD World!")
+                    Greeting("Feature-1 New")
+
                 }
 
             }
